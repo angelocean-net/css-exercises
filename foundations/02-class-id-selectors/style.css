@@ -1,0 +1,18 @@
+.paragraph {
+	background-color: #f52f84;
+	font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#second {
+	color: #11d3f5;
+	font-size: 36px;
+}
+
+.info {
+	font-size: 24px;
+}
+
+#fourth {
+	background-color: #1aed41;
+	font-weight: bold;
+}
